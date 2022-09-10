@@ -162,7 +162,7 @@
  
  :ui/show-brackets? false
  :date-formatter "MMM do, yyyy"
- :graph/settings {:journal? false, :builtin-pages? true, :orphan-pages? false}
+ :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? false}
  :favorites []
  :feature/enable-timetracking? false
  :feature/enable-journals? true
